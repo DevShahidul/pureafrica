@@ -909,7 +909,7 @@ input[type="submit"]{display: block; margin: 0 auto; margin-top: 35px;}
     .info-wrap{padding: 82px 0 0 0; background-image: none !important;}
     .info-wrap .md-container{padding: 0;}
     .info-wrap .text-centre,
-    .home-content .info-row:nth-child(even) .info-col-2{padding: 0 35px;}
+    .info-row:nth-child(even) .info-col-2{padding: 0 35px;}
     .info-col-2, .info-row:nth-child(even) .info-col-2{width: 100%; min-height: 470px;}
     .info-text{padding: 20px 0}
     .quote-wrap{padding-top: 40px;padding-bottom: 0;}
@@ -924,7 +924,7 @@ input[type="submit"]{display: block; margin: 0 auto; margin-top: 35px;}
     /* Career page*/
     .accordion-wrap{margin-top: 20px;}
     .accordion-item{padding: 0 0 0 45px;}
-    .get-in-touch-wrap .sm-container, .journal-content .sm-container{padding: 0;}
+    .get-in-touch-wrap .sm-container, .journal-content .sm-container{padding: 0 35px;}
     .journal-gallery-section p, .modal-content-inner h5{margin-top: 30px;}
     .social-link-wrap{margin-top: 40px;}
     .journal-gallery-section{padding-bottom: 40px;}
