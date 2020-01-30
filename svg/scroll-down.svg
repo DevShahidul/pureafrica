@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6.001" height="9.002" viewBox="0 0 6.001 9.002">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <path id="ic_keyboard_backspace_24px" d="M12 8.5H4.915l1.79-1.8L6 6 3 9l3 3 .705-.705L4.915 9.5H12z" class="cls-1" transform="rotate(-90 3.001 9.001)"/>
+</svg>

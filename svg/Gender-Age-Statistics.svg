@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Gender_Age_Statistics" width="466" height="216" data-name="Gender &amp; Age Statistics" viewBox="0 0 466 216">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2,.cls-4,.cls-7{fill:#133a3e}.cls-2{font-size:18px}.cls-2,.cls-6{font-family:NanumMyeongjo}.cls-3{fill:#f0ede4}.cls-5,.cls-6{fill:#393c40}.cls-5{font-size:12px;font-family:Avenir-Light,Avenir;font-weight:300}.cls-6{font-size:14px}.cls-7{opacity:.5}
+        </style>
+    </defs>
+    <g id="Background">
+        <path id="Background-2" d="M0 0h362v216H0z" class="cls-1" data-name="Background"/>
+    </g>
+    <g id="Gender" transform="translate(30 30)">
+        <g id="Header">
+            <text id="Gender-2" class="cls-2" data-name="Gender" transform="translate(0 -2)">
+                <tspan x="0" y="17">High Season, Shoulder Season, Low Season</tspan>
+            </text>
+        </g>
+        <g id="Comparison" transform="translate(1 75)">
+            <path id="Rectangle_24" d="M0 0h435v10H0z" class="cls-3" data-name="Rectangle 24" transform="translate(0 30)"/>
+            <path id="Rectangle_28" d="M0 0h98v10H0z" class="cls-4" data-name="Rectangle 28" transform="translate(80.018 30)"/>
+            <text id="Female" class="cls-5" transform="translate(0 63)">
+                <tspan x="0" y="0">Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec</tspan>
+            </text>
+            <text id="_62_" class="cls-6" data-name="62%" transform="translate(0 -10)">
+                <tspan x="0" y="0">High</tspan>
+            </text>
+            <text id="_28_" class="cls-6" data-name="28%" transform="translate(134 -10)">
+                <tspan x="-53.949" y="0">Shoulder</tspan>
+            </text>
+            <path id="Rectangle_28-2" d="M0 0h79v10H0z" class="cls-4" data-name="Rectangle 28" transform="translate(224.37 30)"/>
+            <circle id="Ellipse_1297" cx="5" cy="5" r="5" class="cls-4" data-name="Ellipse 1297" transform="translate(42 -19.5)"/>
+            <circle id="Ellipse_1298" cx="5" cy="5" r="5" class="cls-7" data-name="Ellipse 1298" transform="translate(147 -19.5)"/>
+            <text id="_28_2" class="cls-6" data-name="28%" transform="translate(217 -10)">
+                <tspan x="-27.563" y="0">Low</tspan>
+            </text>
+            <circle id="Ellipse_1301" cx="5" cy="5" r="5" class="cls-3" data-name="Ellipse 1301" transform="translate(230 -19.5)"/>
+            <path id="Rectangle_28-3" d="M0 0h47v10H0z" class="cls-7" data-name="Rectangle 28" transform="translate(178.018 30)"/>
+        </g>
+    </g>
+</svg>

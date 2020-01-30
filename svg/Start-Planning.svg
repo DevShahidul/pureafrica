@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="31" viewBox="0 0 112 31">
+    <defs>
+        <style>
+            .cls-1,.cls-5{fill:none}.cls-1{stroke:#f0ede4}.cls-2{fill:#f0ede4}.cls-3{fill:#fff;font-size:11px;font-family:Avenir-Medium,Avenir;font-weight:500;letter-spacing:.1em}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Start_Planning" data-name="Start Planning" transform="translate(-48 -489)">
+        <g id="Ellipse_6" class="cls-1" data-name="Ellipse 6" transform="translate(129 489)">
+            <circle cx="15.5" cy="15.5" r="15.5" class="cls-4"/>
+            <circle cx="15.5" cy="15.5" r="15" class="cls-5"/>
+        </g>
+        <path id="ic_keyboard_backspace_24px" d="M12.488 8.636H5.019l1.887-1.893L6.163 6 3 9.163l3.163 3.163.743-.743L5.019 9.69h7.469z" class="cls-2" transform="rotate(180 76.244 257)"/>
+        <text id="DISCOVER" class="cls-3" transform="translate(48 498)">
+            <tspan x="0" y="11">DISCOVER</tspan>
+        </text>
+    </g>
+</svg>
