@@ -1,0 +1,26 @@
+Hey there :) You built a great site for us - Pure Africa :)
+
+http://staging.greenboxdesigns.com/pure-africa/v6/
+
+So the client is of course changing things completely haha.
+
+New site
+
+https://app.zeplin.io/project/5e241ad5598e6058bd423c1e
+
+Here are the updates. We have left components that you have already coded in grey they are un changed.
+
+Templates needed
+
+Required - Nav dropdowns
+Template 1 - Home page
+Template 2 - Experiences landing
+Template 3 - Tram/pot/guided - Include all the different components from pages all on one page (you can re use a lot here).
+Template 4 - Weddings
+Template 5 - About
+Template 6 - Events Include all the different components on one page
+Template 7 - Contact, include booking and contact on one page
+Template 8 - Destination management
+Template 9 - Blog (mostly the same small changes)
+
+   
