@@ -178,12 +178,9 @@ button:focus{outline: none;}
 .deep-abbey{color:#133a3e}
 .bg-white{background-color: #ffffff;}
 .bg-gray{background-color: #d6dad9 !important;}
-
 /* End color style */
 
-
 /* common style */
-
 .desktop{display: block}
 .mobi{display: none;}
 .tablet{display: none}
@@ -249,7 +246,6 @@ a.sticky{display: none}
 .sticky-header .main-nav{top: 10px}
 /* Header section 
 
-
 /* hero section */
 .hero-bg,.home-hero-bg{position: absolute; left: 0; top: 0; width: 100%; height: 100%; background-repeat: no-repeat; background-position: center center; background-size: cover; z-index: -1;}
 .home-content .home-hero-bg{-webkit-transform: scale(1.2); -moz-transform: scale(1.2); transform: scale(1.2);}
@@ -272,6 +268,7 @@ a.sticky{display: none}
 .scroll-down a:after{content: ''; position: absolute; left: 50%; -webkit-transform: translateX(-50%);transform: translateX(-50%); -moz-transform: translateX(-50%); bottom: 6px; background-image: url('../svg/scroll-down.svg'); width: 6px; height: 9px;}
 .experience-landing-content .hero-content-wrap .title-text h2{line-height: 44px; font-family: 'Nanum Myeongjo', serif; font-weight: 400; max-width: 503px;}
 /* end hero section */
+
 .what-we-do-wrap{background: #faf7f2;}
 .what-we-do{padding: 100px 0 97px; float: left; width: 100%}
 .what-we-do .article{margin-top: 33px}
@@ -280,12 +277,10 @@ a.sticky{display: none}
 .home-content .content-container{background-color: #ffffff; padding-top: 100px;}
 .icon{position: absolute; top: 163px; width: 241px; background-image: url(../svg/PureAfrica_Shape.svg); background-repeat: no-repeat; height: 490px; background-size: cover; -webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); transform: rotate(180deg); z-index: 5;}
 .top-journey{float: left; width: 100%; padding-bottom: 108px;}
-/*.top-journey .common-wrap{max-width: 1202px;}*/
 .top-journey img{text-align: center; margin: 0 auto; display: block;}
 .top-journey h6{margin-top: 34px;}
 .card-wrap{float: left; width: 100%; margin: 116px 0 0; position: relative; z-index: 99; text-align: left;}
 .card-inner{float: left; width: 100%;}
-/*.col-3{float: left; width: 28.08764940239044%;}*/
 .col-3{float: left; width: 28.29391891891892%;}
 .card-item{padding: 0 24.5px}
 .card-item-inner{border: 1px solid #eaeaea; float: left; width: 100%; cursor: pointer}
@@ -306,6 +301,7 @@ a.sticky{display: none}
 .gallery-section{float: left; width: 100%; padding: 120px 0 91px; background: #faf7f2;}
 .gallery-section > .common-wrap > h2{font-size: 50px; line-height: 60px; color: #133a3e; font-family: 'Nanum Myeongjo', serif; font-weight: 400;}
 .gallery-row-wrap{float: left; width: 100%; margin-top: 50px}
+.home-content .gallery-section .gallery-row-wrap{margin-top: 66px}
 .col-2-wrap, .col-4-wrap{float: left; width: 100%;}
 .double-item .col-4:last-child{margin-right: 0}
 .gallery-item{position: relative; width: 32.01347935973041%; float: left; margin: 28px  0.8424599831508003% 0; cursor: pointer}
@@ -327,9 +323,7 @@ a.sticky{display: none}
 .mobi-slider{opacity: 0; visibility: hidden; position: absolute; left: -100%;}
 .desktop-slider{position: relative;}
 .desktop-slider .slider-item-inner{float: left; width: 33.33333333333333%; padding: 0 37.5px; position: relative; opacity: 0; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;}
-/*.slider-item-inner figure img{clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0% 100%);}*/
 .swiper-slide-active .slider-item-inner{opacity: 1;}
-/*.swiper-slide-active .slider-item-inner figure img{transition: all 1s ease-in;}*/
 .desktop-slider .slider-item-inner:nth-child(even){padding-top: 43px}
 .slider-item h2{position: absolute; top: 50%; -webkit-transform: translate(-50%) rotate(-90deg); -moz-transform: translate(-50%) rotate(-90deg); transform: translate(-50%) rotate(-90deg); width: auto; margin-left: -6px; margin-top: -17px; opacity: 0;}
 .mobi-slider .slider-item h2{-webkit-transition: all .4s ease; -moz-transition: all .4s ease; transition: all .4s ease;}
@@ -386,7 +380,7 @@ a.sticky{display: none}
 .footer-top{padding: 54px 0 92px; float: left; width: 100%; border-top: 1px solid #eaeaea;}
 .home .footer-top{border-top: 0;}
 .footer-top-inner{float: left; width: 100%; display: -webkit-flex; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: flex; -webkit-flex-flow: row wrap; flex-flow: row wrap; -webkit-justify-content: space-between; justify-content: space-between;}
-.widget{font-size: 12px; line-height: 25px; /*margin-right:55px; */font-family: 'Avenir-Light', sans-serif;}
+.widget{font-size: 12px; line-height: 25px; font-family: 'Avenir-Light', sans-serif;}
 .widget:first-child{width: 11%;}
 .widget:last-child{margin-right: 0}
 .widget h6{font-size: 12px; line-height: 18px; margin-bottom: 10px; text-align: left; letter-spacing: normal;}
@@ -699,7 +693,6 @@ a.sticky{display: none}
 .wedding-content .gallery-section .gallery-row-wrap{margin-top: 0;}
 /* End wedding page */
 
-
 /* Template 3 */
 .content-container-section{background: #faf7f2; padding: 94px 0 108px 0;}
 .content-container-section .lead-text{padding-top: 30px;}
@@ -839,7 +832,7 @@ input[type="submit"]{display: block; margin: 0 auto; margin-top: 35px;}
     .btn{width: 103px; height: 29px; font-size: 7px; letter-spacing: 0.7px; line-height: 30px}
     .mobi{display: block}
     .common-wrap, .md-container{padding: 0 35px}
-    h2{font-size: 30px !important; line-height: 36px !important;}
+    h1,h2{font-size: 30px !important; line-height: 36px !important;}
     h3{font-size: 18px}
     h6{font-size: 10px; line-height: 26px; letter-spacing: 4px}
     .article{font-size: 18px; line-height: 28px;}
@@ -1065,6 +1058,9 @@ input[type="submit"]{display: block; margin: 0 auto; margin-top: 35px;}
     .deatiles-info{margin-top: 60px;}
     .enquiry-container{padding-bottom: 50px;}
     
+    .hero-section .slick-next{right: 20px;}
+    .hero-section .slick-prev, .our-venues .slick-prev, .content-slider-row .slick-prev{left: 20px;}
+    
     
 }
 
@@ -1194,13 +1190,7 @@ input[type="submit"]{display: block; margin: 0 auto; margin-top: 35px;}
     .widget,
     .widget:first-child{width: 33.3333333333%; margin: 0 0 30px}
     
-    
-    
 }
-/*@media only screen and (min-width: 768px) and (max-width: 1150px){
-    
-    .col-4:nth-child(4n+1){clear: both;}
-}*/
 
 @media only screen and (min-width: 992px) and (max-width: 1150px){
     .modal-content { float: left; width: 50%; padding: 58px 20px 0;}
